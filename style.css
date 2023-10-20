@@ -1,23 +1,20 @@
 #websiteTitle {
-    font-size: 128px;
-    color: red;
+    font-size: 100px;
+    color: black;
     font-weight: 200;
-
+    margin-left: 700px;
 }
 
+#name {
+    margin-left: 630px;
+    font-size: 70px;
+}
 .redtext {
-    color: red;
+    color: black;
     font-weight: 200;
+    margin-left: 600px;
 }
 
-#first {
-    display: inline-block;
-    width: 500px;
-
-    border: 20px;
-    padding: 50px 110px;
-    margin: 20px 0px;
-}
 
 #third {
     font-size: 10px;
@@ -28,8 +25,17 @@ span{
     font-size: 64px;
 }
 
-.ll {
-    font-size: 25px;
-    width: 500px;
+.lll {
+    border: 50px;
+    font-size: 50px;
+    margin-left: 1200;
 
+}
+
+#nickname {
+    margin-left: 900px;
+}
+
+body {
+    background-color: gray;
 }
