@@ -1,0 +1,35 @@
+#websiteTitle {
+    font-size: 128px;
+    color: red;
+    font-weight: 200;
+
+}
+
+.redtext {
+    color: red;
+    font-weight: 200;
+}
+
+#first {
+    display: inline-block;
+    width: 500px;
+
+    border: 20px;
+    padding: 50px 110px;
+    margin: 20px 0px;
+}
+
+#third {
+    font-size: 10px;
+    
+}
+
+span{
+    font-size: 64px;
+}
+
+.ll {
+    font-size: 25px;
+    width: 500px;
+
+}
