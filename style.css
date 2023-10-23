@@ -1,41 +1,39 @@
-#websiteTitle {
-    font-size: 100px;
-    color: black;
-    font-weight: 200;
-    margin-left: 700px;
-}
-
-#name {
-    margin-left: 630px;
-    font-size: 70px;
-}
-.redtext {
-    color: black;
-    font-weight: 200;
-    margin-left: 600px;
-}
-
-
-#third {
-    font-size: 10px;
+.title {
+    font-size: 36px;
+    background-color: aliceblue;
+    padding-bottom: 1px;
+    padding-top: 20px;
     
 }
 
-span{
-    font-size: 64px;
-}
-
-.lll {
-    border: 50px;
-    font-size: 50px;
-    margin-left: 1200;
-
-}
-
 #nickname {
-    margin-left: 900px;
+    padding-left: 730px;
+    font-size: 58px;
+    
 }
 
 body {
-    background-color: gray;
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=89288ef4b47127f7f34a5998b50e4470);
+}
+
+#name {
+    padding-left: 605px;
+}
+
+#resume {
+    margin-left: 600px;
+}
+
+.kmitl {
+    height: 100px;
+    margin-top: 20px;
+    border: 4px solid black
+    
+}
+
+
+.ig {
+    margin-top: 20px;
+    border: 4px solid black
+    
 }
