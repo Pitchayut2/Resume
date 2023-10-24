@@ -1,15 +1,13 @@
 .title {
     font-size: 36px;
-    background-color: aliceblue;
+    background-image: url(https://marketplace.canva.com/EAFCO6pfthY/1/0/800w/canva-blue-green-watercolor-linktree-background-uZtwBmdoPsE.jpg);
     padding-bottom: 1px;
     padding-top: 20px;
-    
 }
 
 #nickname {
     padding-left: 730px;
     font-size: 58px;
-    
 }
 
 body {
@@ -25,15 +23,23 @@ body {
 }
 
 .kmitl {
-    height: 100px;
+    width: 1500px;
+    height: 50px;
     margin-top: 20px;
+    color: orange;
     border: 4px solid black
-    
 }
 
 
 .ig {
+    width: 100px;
+    float: left;
     margin-top: 20px;
+    margin-left: 715px;
     border: 4px solid black
-    
+}
+
+#it {
+    margin-left: 580px;
+    margin-bottom: 30px;
 }
