@@ -1,4 +1,5 @@
 .title {
+    float: inline;
     font-size: 36px;
     background-image: url(https://marketplace.canva.com/EAFCO6pfthY/1/0/800w/canva-blue-green-watercolor-linktree-background-uZtwBmdoPsE.jpg);
     width: 1500px;
@@ -31,7 +32,6 @@ body {
     border: 4px solid black
 }
 
-
 .ig {
     width: 100px;
     float: left;
@@ -43,4 +43,8 @@ body {
 #it {
     margin-left: 580px;
     margin-bottom: 30px;
+}
+
+#duck {
+    margin-left: 650px;
 }
